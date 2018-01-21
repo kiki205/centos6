@@ -15,7 +15,7 @@ Tested on
 
 ### Centos 6 (KVM VPS)
 ```
-wget https://raw.github.com/arieonline/autoscript/master/centos6-kvm.sh
+wget https://github.com/kiki205/centos6/blob/master/centos6-kvm.sh
 bash centos6-kvm.sh
 ```
 Tested on
